@@ -36,9 +36,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryyudhaproject&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryyudhaproject&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -46,7 +46,15 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryyudhaproject&theme=tokyo-night" />
+</p>
+
+---
+
+## ⚡ GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryyudhaproject&theme=tokyonight" />
 </p>
 
 ---
