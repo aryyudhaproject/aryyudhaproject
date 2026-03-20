@@ -53,8 +53,8 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> • 
-  <a href="https://instagram.com/usernamekamu">Instagram</a>
+  <a href="aryyudhanugroho@email.com">Email</a> • 
+  <a href="https://instagram.com/aryudhaaa">Instagram</a>
 </p>
 
 ---
