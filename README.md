@@ -54,7 +54,7 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="aryyudhanugroho@email.com">Email</a> • 
-  <a href="https://instagram.com/aryudhaaa">Instagram</a>
+  <a href="https://instagram.com/aryudhaaaa">Instagram</a>
 </p>
 
 ---
