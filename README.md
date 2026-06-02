@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ary Yudha Nugroho</h1>
-<h3 align="center">Fullstack Developer | Odoo ERP Developer | Data Analyst</h3>
+<h3 align="center">Fullstack Web Developer | Mobile App Developer ERP Specialist | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Odoo+ERP+Developer;Python+%7C+PostgreSQL;Data+Analyst;Always+Learning+New+Things&center=true&width=500&height=45">
